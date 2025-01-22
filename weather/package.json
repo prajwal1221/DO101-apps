@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node ./bin/www"
   },
+  //this was error
   "dependencies": {
     "cookie-parser": "1.4.5",
     "debug": "4.3.2",
